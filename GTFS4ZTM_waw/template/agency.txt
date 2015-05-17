@@ -1,0 +1,2 @@
+agency_id, agency_name,agency_url,agency_timezone,agency_phone,agency_lang
+ZTM,Zarząd Transportu Miejskiego ,http://www.ztm.waw.pl/,Europe/Warsaw,19 115,pl
